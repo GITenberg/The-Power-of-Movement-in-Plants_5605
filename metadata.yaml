@@ -1,0 +1,85 @@
+_repo: The-Power-of-Movement-in-Plants_5605
+creator:
+  authors:
+  - agent_name: Darwin, Francis, Sir
+    alias: Darwin, Sir Francis
+    birthdate: 1848
+    deathdate: 1925
+    gutenberg_agent_id: '1807'
+    url: http://www.gutenberg.org/2009/agents/1807
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Darwin
+  - agent_name: Darwin, Charles
+    alias: Darwin, Charles Robert
+    birthdate: 1809
+    deathdate: 1882
+    gutenberg_agent_id: '485'
+    url: http://www.gutenberg.org/2009/agents/485
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Darwin
+description: "The Power of Movement in Plants is a book by Charles Darwin on phototropism\
+  \ and other types of movement in plants. This book continues his work in producing\
+  \ evidence for his theory of natural selection. As it was one of his last books,\
+  \ followed only by the publication of The Formation of Vegetable Mould through the\
+  \ Action of Worms, he was assisted by his son Francis in conducting the necessary\
+  \ experiments and preparing the manuscript. The Power of Movement in Plants was\
+  \ published 6 November 1880, and 1500 copies were quickly sold by publisher John\
+  \ Murray.\nThis book stands at the culmination of a long line of study in plants\
+  \ and is immediately preceded by 'The different forms of flowers on Plants of the\
+  \ same species’ (1877). (See Bibliography for additional publications on plants.)\
+  \ These studies on plants were first evidenced in 'On the various contrivances by\
+  \ which British and foreign orchids are fertilised by insects’ (1862), the publication\
+  \ that immediately followed On the Origin of Species By Means of Natural Selection.\n\
+  He co-authored this study with his son Francis Darwin (who specialised in botany)\
+  \ and his devotee, George Romanes, who assisted in editing the work. The work was\
+  \ begun in earnest late in 1877, after his work on climbing plants (1875) and insectivorous\
+  \ plants (1875) stimulated his interest in the subject. At times, Darwin despaired\
+  \ of ever finishing the work, as the book outgrew his original expectations:\n\"\
+  I have written a rather big book—more is the pity—on the movements of plants, and\
+  \ I am now just beginning to go over the MS. for the second time, which is a horrid\
+  \ bore.\"\nAs the book neared completion, he summarised its underlying viewpoint:\n\
+  \"My MS. relates to the movements of plants, and I think that I have succeeded in\
+  \ showing that all the more important great classes of movements are due to the\
+  \ modification of a kind of movement common to all parts of all plants from their\
+  \ earliest youth.\"\nThe work concerns itself with how plants respond to external\
+  \ stimuli and examines these processes in individual plants to gain understanding\
+  \ of some general principles governing their growth and life. This continues Darwin’s\
+  \ work of elucidating how natural selection works and specifically how plants have\
+  \ adapted to differing environments whilst at the same time answering some objections\
+  \ of his day that evolution could not account for changes in behavioural responses.\
+  \ In his conclusions, Darwin presents the key features of plants from an evolutionary\
+  \ perspective indicating that gradual modification of these processes in response\
+  \ to natural selective forces like light and water could enable extensive ability\
+  \ to adapt.\nThe process that creates the circular or elliptical movement of the\
+  \ stem and tips of plants (circumnutation) was identified as a significant one in\
+  \ enabling plants to evolve and adapt to almost any environment on the planet. Darwin\
+  \ also drew attention to the similarities between animals and plants, e.g., sensitivity\
+  \ to touch (thigmotropism), light sensitivity (phototropism), and gravity (geotropism).\
+  \ Darwin used various methods of enquiry: usually setting up rigorous controlled\
+  \ experiments which are clearly explained in the text, reporting the results and\
+  \ then drawing general conclusions. Studies of nyctinasty were particularly burdensome,\
+  \ to Darwin's rest as well as to the plants:\n\"I think we have proved that the\
+  \ sleep of plants is to lessen the injury to the leaves from radiation. This has\
+  \ interested me much, and has cost us great labour, as it has been a problem since\
+  \ the time of Linnaeus. But we have killed or badly injured a multitude of plants.\"\
+  \n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Botany
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5605'
+  wikidata: Q4354654
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Botany'
+- !lcsh 'Geotropism'
+- !lcsh 'Plants -- Irritability and movements'
+- !lcc 'QK'
+title: The Power of Movement in Plants
+url: http://www.gutenberg.org/ebooks/5605
+wikipedia:
+- https://fi.wikipedia.org/wiki/The_Power_of_Movement_in_Plants
+- https://en.wikipedia.org/wiki/The_Power_of_Movement_in_Plants
+- https://pt.wikipedia.org/wiki/The_Power_of_Movement_in_Plants
+- https://no.wikipedia.org/wiki/The_Power_of_Movement_in_Plants
