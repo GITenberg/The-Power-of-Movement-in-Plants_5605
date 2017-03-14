@@ -1,5 +1,8 @@
 _repo: The-Power-of-Movement-in-Plants_5605
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Darwin, Francis, Sir
@@ -62,6 +65,8 @@ description: "The Power of Movement in Plants is a book by Charles Darwin on pho
   \ interested me much, and has cost us great labour, as it has been a problem since\
   \ the time of Linnaeus. But we have killed or badly injured a multitude of plants.\"\
   \n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5605#The-Power-of-Movement-in-Plants
 gutenberg_bookshelf: Botany
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
