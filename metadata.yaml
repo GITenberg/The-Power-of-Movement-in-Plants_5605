@@ -1,5 +1,5 @@
 _repo: The-Power-of-Movement-in-Plants_5605
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -82,6 +82,7 @@ subjects:
 - !lcsh 'Geotropism'
 - !lcsh 'Plants -- Irritability and movements'
 - !lcc 'QK'
+- GITenberg
 title: The Power of Movement in Plants
 url: http://www.gutenberg.org/ebooks/5605
 wikipedia:
